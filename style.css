@@ -1,152 +1,152 @@
 body {
-    font-family: "Montserrat", sans-serif;
-    background: #e5e5e5;
+  font-family: "Montserrat", sans-serif;
+  background: #e5e5e5;
 }
 
 .wrapper {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
-    width: 1200px;
-    margin: 0 auto;
-    background: #ffffff;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 aside {
-    width: 370px;
-    background: #1e2939;
+  width: 370px;
+  background: #1e2939;
 }
 .cv-photo {
-    margin-top: 25px;
+  margin-top: 25px;
 }
 
 .header-secondary {
-    color: #ffffff;
+  color: #ffffff;
 }
 
 .contact-links {
-    color: #ffffff;
-    font-size: 14px;
-    line-height: 24px;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
 }
 
 .contact-links-2 {
-    color: #bdb8b8;
+  color: #bdb8b8;
 }
 
 .bold {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .list-secondary {
-    color: #fb6d3a;
-    font-size: 14px;
-    line-height: 24px;
-    margin-left: 0;
-    padding-left: 0;
-    list-style-position: inside;
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
 }
 
 .list-seconary-item {
-    color: #bdb8b8;
+  color: #bdb8b8;
 }
 
 .contact-block {
-    margin-top: 51px;
-    margin-left: 40px;
+  margin-top: 51px;
+  margin-left: 40px;
 }
 
 .next-block {
-    margin-top: 47px;
-    margin-left: 40px;
+  margin-top: 47px;
+  margin-left: 40px;
 }
 
 main {
-    padding: 88px 102px 88px 102px;
-    padding-left: 88px;
-    padding-top: 102px;
-    padding-bottom: 102px;
-    padding-right: 88px;
+  padding: 88px 102px 88px 102px;
+  padding-left: 88px;
+  padding-top: 102px;
+  padding-bottom: 102px;
+  padding-right: 88px;
 }
 
 .main-description {
-    width: 400px;
-    margin-bottom: 40px;
+  width: 600px;
+  margin-bottom: 40px;
 }
 
 .job-title {
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 17px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
 }
 
 h1 {
-    font-weight: 700;
-    font-size: 45px;
-    line-height: 55px;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
 }
 
 .description {
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
 }
 
 .projects {
-    width: 485px;
-    margin-bottom: 50px;
+  width: 485px;
+  margin-bottom: 50px;
 }
 
 .list-primary {
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
-    padding-left: 0;
-    margin-left: 0;
-    list-style-position: inside;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  margin-left: 0;
+  list-style-position: inside;
 }
 
 .list-primary-item {
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-    text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
 }
 
 .header-primary {
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
-    margin-bottom: 12px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
 }
 
 .job-name {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .job {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .highlight {
-    color: #fb6d3a;
+  color: #fb6d3a;
 }
 
 .job-date {
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    color: #a8a8a8;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
 }
 
 .educations {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 /*
