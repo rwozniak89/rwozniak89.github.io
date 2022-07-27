@@ -87,6 +87,11 @@ h1 {
   line-height: 55px;
 }
 
+.study-name {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
 .description {
   font-weight: 400;
   font-size: 14px;
@@ -125,13 +130,14 @@ h1 {
 }
 
 .job-name {
+  padding-top: 10px;
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
 }
 
 .job {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 
 .highlight {
@@ -141,7 +147,7 @@ h1 {
 .job-date {
   font-weight: 400;
   font-size: 12px;
-  line-height: 15px;
+  line-height: 2px;
   color: #a8a8a8;
 }
 
