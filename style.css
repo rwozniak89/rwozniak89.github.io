@@ -129,6 +129,10 @@ h1 {
   margin-bottom: 12px;
 }
 
+.cert {
+  margin-top: 50px;
+}
+
 .job-name {
   padding-top: 10px;
   font-weight: 700;
@@ -137,7 +141,7 @@ h1 {
 }
 
 .job {
-  margin-bottom: 24px;
+  margin-bottom: 20px;
 }
 
 .highlight {
